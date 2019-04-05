@@ -1,6 +1,6 @@
 This repository contains the data and analysis files for:
 
-J. Denis, N. Villeneuve, P. Cacciagli, C. Mignon-Ravix, C. Lacoste, J. Lefranc, S. Napuri, L. Damaj, F. Villega, J-M. Pedespan, S. Moutton, C. Mignot, D. Doummar, L. Lion-François, S. Gataullina, O. Dulac, M Martin, S. Gueden, G. Lesca, S. Julia, C. Cances, H. Journel, C. Altuzarra, B. Ben Zeev, A. Afenjar,  M. Barth,  Laurent Villard, M. Milh (2019) [Clinical study of 19 patients with SCN8A-related epilepsy: two orthogonal modes of onset regarding EEG and seizures] (under review) 
+J. Denis, N. Villeneuve, P. Cacciagli, C. Mignon-Ravix, C. Lacoste, J. Lefranc, S. Napuri, L. Damaj, F. Villega, J-M. Pedespan, S. Moutton, C. Mignot, D. Doummar, L. Lion-François, S. Gataullina, O. Dulac, M Martin, S. Gueden, G. Lesca, S. Julia, C. Cances, H. Journel, C. Altuzarra, B. Ben Zeev, A. Afenjar,  M. Barth,  Laurent Villard, M. Milh (2019) [Clinical study of 19 patients with SCN8A-related epilepsy: two modes of onset regarding EEG and seizures] (under review) 
 
 ## Data
 
